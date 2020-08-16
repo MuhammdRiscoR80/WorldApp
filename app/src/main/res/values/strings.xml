@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WOW</string>
+    <string name="user">User</string>
+    <string name="order_by_name">Order by Name</string>
+    <string name="order_default">Default</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCJzOQFntTCE43yfl1-SAqKGSiuUVHp2Ug</string>
+</resources>
